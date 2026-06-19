@@ -11,7 +11,7 @@
 
 | Recurso | URL |
 |---|---|
-| Video YouTube | _pendiente_ |
+| Video YouTube | https://youtu.be/lpio5H_1HaQ |
 
 ---
 
